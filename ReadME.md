@@ -1,5 +1,5 @@
-Assignment is to Parse JSON payload from user request (from dashboard) and Process data to train ML Models
-
+# Assignment is to Parse JSON payload from user request (from dashboard) and Process data to train ML Models
+## Setups and features
 1. If Library is not installed try installing the requirement file "pip install -r requirement.txt"
 2. Change the JSON file name on line no. 15 "payloadNm" (From user request)
 3. The code is made in such a way that it will find the type of model and based on model type model is trained.
